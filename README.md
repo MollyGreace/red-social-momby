@@ -1,10 +1,21 @@
 # Red social MOMBY
 
+Momby, es una red social dirigida a padres que tienen niños con habilidades diferentes. Después de tu registro podrás acceder a todo el contenido generado por sus propios usuarios.
+
+![momby](https://user-images.githubusercontent.com/32301249/36440265-5629e95e-163d-11e8-8804-919c8a5358a9.png)
+
+## Desarrollado para
+[Laboratoria](http://laboratoria.la)
+
+
+## Ver más detalles
+******************************************
+
 * **Track:** _Common Core_
 * **Curso:** _Crea tu propia red social_
 * **Unidad:** _Producto Final_
 
-***
+**********************************
 
 El presente repositorio contiene el producto final del Sprint 3 de nuesto _bootcamp_ en Laboratoria.
 
@@ -16,7 +27,8 @@ El presente repositorio contiene el producto final del Sprint 3 de nuesto _bootc
 
 __FLUJO DE TRABAJO__
 
-Flujo de Trabajo - Momby
+Organización:
+
 * Viernes 05/01/18:
   - Indicaciones del Producto Final.
 
@@ -40,9 +52,10 @@ Flujo de Trabajo - Momby
   - Intentar una vez más Login con Firebase.
 
 
-## Presentación
+## Descripción del tema
 
-*Momby* es una Red Social, dirigida a madres que tienen hijos con habilidades especiales, se genera una red de apoyo entre las madres acorde a las dificultades y necesidades que conlleva el proceso de la crianza y educación de un niño(a) con diferentes habilidades.
+Momby, es una red social dirigida a padres que tienen niños con habilidades diferentes. Después de tu registro podrás acceder a todo el contenido generado por sus propios usuarios.
+
 Entre los temasque encontramos tenemos:
 * Autismo.
 * Síndrome de Down.
@@ -59,7 +72,6 @@ Nuestra versión final cumple con:
 * Diseño mobile friendly.
 * Filtros de contactos.
 * Filtros de posts: Lo más visto, populares y más comentado.
-* Desplegar el producto en Github Pages.
 * Agregar comentarios al área de newsfeed.
 
 ## Flujo de trabajo
